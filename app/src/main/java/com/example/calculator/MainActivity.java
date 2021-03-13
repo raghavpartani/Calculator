@@ -179,7 +179,7 @@ public class MainActivity extends AppCompatActivity {
 
                 if (Multiplication == true) {
                     tv.setText(mValueOne * mValueTwo + "");
-                    Multiplication = false;
+                    Multiplication = false ;
                 }
 
                 if (Division == true) {
